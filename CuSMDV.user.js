@@ -7,6 +7,7 @@
 // @match        file:///*/*.md
 // @match        https://*/*.md
 // @match        http://*/*.md
+// @exclude      https://github.com/*blob/*
 // @icon         https://raw.githubusercontent.com/cy-gh/CuSMDV/main/favicon.png
 // @downloadURL  https://raw.githubusercontent.com/cy-gh/CuSMDV/main/CuSMDV.user.js
 // @updateURL    https://raw.githubusercontent.com/cy-gh/CuSMDV/main/CuSMDV.user.js
