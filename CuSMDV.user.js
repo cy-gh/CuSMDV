@@ -365,7 +365,7 @@ const CuSMDV = (() => {
         document.getElementById('_mdsrc').innerText = source;
 
         const loc = document.location;
-        const filename = loc.href.replace(/^.+?[\\/]([^\\/]+?)$/, '$1').replace(loc.hash, '');
+        const filename = decodeURI(loc.href.replace(/^.+?[\\/]([^\\/]+?)$/, '$1').replace(loc.hash, ''));
         var elTitle = Util.qc('title', null, head, `${filename} (${loc})`);
         head.appendChild(elTitle);
     }
