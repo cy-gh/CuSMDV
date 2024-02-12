@@ -7,9 +7,9 @@
 // @match        file:///*/*.md
 // @match        https://*/*.md
 // @match        http://*/*.md
-// @icon         https://github.com/cy-gh/CuSMDV/favicon.png
-// @downloadURL  https://github.com/cy-gh/CuSMDV/blob/main/CuSMDV.user.js
-// @updateURL    https://github.com/cy-gh/CuSMDV/blob/main/CuSMDV.user.js
+// @icon         https://raw.githubusercontent.com/cy-gh/CuSMDV/main/favicon.png
+// @downloadURL  https://raw.githubusercontent.com/cy-gh/CuSMDV/main/CuSMDV.user.js
+// @updateURL    https://raw.githubusercontent.com/cy-gh/CuSMDV/main/CuSMDV.user.js
 // @supportURL   https://github.com/cy-gh/CuSMDV/issues
 // @grant        none
 // ==/UserScript==
