@@ -17,10 +17,18 @@ Simply install via Tampermonkey, etc.
 
 # Screenshots
 
-![with TOC](./SMDV_screenshot_1.png)
+## *with Table of Contents*
 
-![without TOC](./SMDV_screenshot_2.png)
+> ![with Table of Contents](./SMDV_screenshot_1.png)
 
-![light mode](./SMDV_screenshot_3.png)
+## *without Table of Contents*
 
-![raw source](./SMDV_screenshot_4.png)
+> ![without Table of Contents](./SMDV_screenshot_2.png)
+
+## *light mode*
+
+> ![light mode](./SMDV_screenshot_3.png)
+
+## *raw source*
+
+> ![raw source](./SMDV_screenshot_4.png)
